@@ -19,7 +19,7 @@ public class Switch {
              default:
                  System.out.println("invalid fruit");
         }
-  */
+  */other swith case formate
         switch (fruit) {
             case "apple" -> System.out.println("a red sweet fruit");
             case "mango" -> System.out.println("a king of fruits");
