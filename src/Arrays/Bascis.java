@@ -1,6 +1,6 @@
-package Arrayss;
+package Arrays;
 
-public class Main {
+public class Bascis {
     static void main(String[] args) {
         //Q: store a roll number in an array
         int a = 10;
@@ -25,3 +25,4 @@ public class Main {
 
     }
 }
+
