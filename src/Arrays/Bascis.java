@@ -23,6 +23,14 @@ public class Bascis {
         // or direct
         int[] rnos2 = {23, 54, 78, 90, 34};
 
+        int[] ros; // declaratrion of array , ros is getting defined in the stack
+        ros = new int[5]; // initialisation : actually here object is being created in the in the memory (heap)
+       // System.out.println(ros[4]);
+
+        String[] arr =new String[5];
+        System.out.println(arr[3]);
+
+
     }
 }
 
