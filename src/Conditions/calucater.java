@@ -1,7 +1,7 @@
 package Conditions;
 import java.util.Scanner;
 
-public class calucater {
+public class  calucater {
     static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int ans=0;
@@ -35,5 +35,8 @@ public class calucater {
         }
 
     }
+
+
+
 
 }
