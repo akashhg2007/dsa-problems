@@ -37,6 +37,7 @@ public class Input {
         System.out.println(Arrays.toString(arr));
         // modify
         str[1]="Akash";
+        //print an array without for loop(best one)
         System.out.println(Arrays.toString(str));
 
     }
