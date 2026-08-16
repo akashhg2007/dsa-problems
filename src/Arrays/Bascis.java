@@ -14,7 +14,7 @@ public class Bascis {
         int rno4 = 28;
         int rno5 = 43;
 
-        //for array
+        //for arrayS
         //syntax is
         //datatype[] variable_name = new datatype[size];
         // store 5 roll number
