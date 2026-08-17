@@ -16,7 +16,7 @@ public class PassingArgument {
                 System.out.println(marks[i]+" ");
                 
             }
-            System.out.println();
+            System.out.println( " ");
 
         }
 
