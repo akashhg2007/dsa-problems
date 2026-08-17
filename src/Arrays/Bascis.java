@@ -27,9 +27,12 @@ public class Bascis {
         ros = new int[5]; // initialisation : actually here object is being created in the in the memory (heap)
        // System.out.println(ros[4]);
 
+
         String[] arr =new String[5];
         System.out.println(arr[3]);
+        System.out.println(
 
+        );
 
     }
 }
