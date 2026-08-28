@@ -14,8 +14,6 @@ public class BinarySearch {
             }
             if (number[mid] < key) {
                 start = mid + 1;
-
-
             } else {
                 end = mid - 1;
             }
